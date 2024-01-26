@@ -1,0 +1,12 @@
+.nav-bar{
+    display:flex;
+    background-color:khaki;
+    padding:20px;
+    list-style-type:none;
+    justify-content:space-evenly;
+    font-style: italic;
+}
+
+.nav-link{
+    text-decoration: none;
+}
